@@ -8,7 +8,4 @@ run this command in your ananconda powershell :
 conda install geopandas
 
 Download the dataset  
-cities.csv
-providers.csv
-stations.csv
-ticket_data.csv
+cities.csv  providers.csv  stations.csv  ticket_data.csv
